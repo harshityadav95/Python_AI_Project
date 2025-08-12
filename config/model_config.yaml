@@ -1,0 +1,7 @@
+default_provider: openai
+models:
+  gpt4o:
+    provider: openai
+    name: gpt-4o
+    temperature: 0.2
+    max_tokens: 512
